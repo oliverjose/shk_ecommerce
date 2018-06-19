@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "ComposeMongo": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "shk",
+    "password": "",
+    "name": "ComposeMongo",
+    "user": "",
+    "connector": "mongodb"
   }
 }
